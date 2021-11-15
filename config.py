@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 SESSION_NAME = getenv("SESSION_NAME", "session")
+BG_IMAGE = getenv(" BG_IMAGE", "https://telegra.ph/file/0f6f8a8a5ad69fe5ecf3d.png") 
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_NAME = getenv("BOT_NAME")
 API_ID = int(getenv("API_ID"))
