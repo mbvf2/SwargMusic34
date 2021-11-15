@@ -27,12 +27,12 @@
 
 ### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shailendra34/SwargMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shailendra34/SwargMusic34)
 
 
 ### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐎𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲 </h5>
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Shailendra34/SwargMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Shailendra34/SwargMusic34&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 
 ### 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫
