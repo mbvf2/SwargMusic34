@@ -2,7 +2,7 @@ import requests
 from pyrogram import Client as Bot
 
 from config import API_HASH, API_ID, BG_IMAGE, BOT_TOKEN
-from services.callsmusic import run
+from callsmusic import run
 
 response = requests.get(BG_IMAGE)
 file = open("./etc/foreground.png", "wb")
@@ -14,7 +14,7 @@ bot = Bot(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="modules"),
+    plugins=dict(root="handlers"),
 )
 
 bot.start()
