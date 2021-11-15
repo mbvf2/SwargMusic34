@@ -2,7 +2,7 @@
   "name": "Swarg Music",
   "description": "𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐚𝐧𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐏𝐲𝐓𝐠𝐜𝐚𝐥𝐥𝐬.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Shailendra34/SwargMusic",
+  "repository": "https://github.com/Shailendra34/SwargMusic34",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
